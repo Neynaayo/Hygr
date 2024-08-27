@@ -1,0 +1,30 @@
+Adam Bahri bin Adam Lee;0123450678;13,jalan putra perdana,9/3,47100;0;2;1;21/01/2023;TNG;SM930012346590
+Sweet Qismina binti Rohan;0198765430;01-B-2300,Persiaran CyberSouth 3,43800;2;0;1;22/02/2023;TNG;SM930165511129
+Amir Ahnaf bin hakim Ahnaf;0119872765;04-B-2423,Persiaran CyberSouth 3, 43800;0;0;1;20/03/2023;Card;SM901578902378
+Mierul Aiman bin Ramli;01192912765;22, Jln Setia Tropika 1,63000;0;1;0;27/04/2023;Card;SM904567800112
+Nur Fasleyana binti Ramli;01198721243;43, Jln Setia Tropika 3,63000;1;1;1;27/01/2023;TNG;SM912367890002
+Khairi Azwar Bin Kassim;01199021243;K11,Jln Setia Marina 3/1,63000;1;1;0;27/02/2023;Card;SM906543218907
+Nabila Huda bt Zaulkafari;012348721243;K14 Jln Setia Marina 3/1,63000;0;0;1;25/03/2023;Card;SM900123478901
+Nurwahidah binti Razak;01198903243;K06, Jln Setia Marina 3/1,63000;1;2;0;25/04/2023;Card;SM900276590032
+Sharifah Nur Aisyah Binti Syed Anuar;01198719203;No 8,Jln Putra Perdana 13/9,47100;0;1;0;26/01/2023;TNG;SM990187651110
+Muhammad Safwan bin Shahrom;011920391243;No 75, Jln Putra perdana 3/11,47130;2;0;0;26/02/2023;Card;SM901133346678
+Asyad Basyar bin Hadi;0115672346;Lot 1084 jalan  Sekolah,Kampung kota tingi,42800;5;1;3;10/03/2023;TnG;SM909143958649
+Nur Alfirah Atiqah binti Kamarul zaman;0182640121;10/9 Taman Indah perdana,Kampung Endah Baharu,42800;2;4;5;01/04/2023;Card;SM999135743205
+Siti Syamimi Camelia Huda binti Kamarudin;0173409295;Lot 1072 Jalan Bahagia,kampung Batu Laut,42800;7;3;1;30/01/2023;card;SM987530216475
+Ahmad Zayn Hide bin Zamri;01135486874;No.12 jalan penawar,Salak Tinggi Sepang,43900;10;7;8;12/02/2023;Card;SM963852741254
+Nur Fasihah Lidiya binti Asri;0196061442;No.34 Block A, IOI Resort City,Sepang,43900;6;3;2;25/03/2023;TnG;SM951753648256
+Nur Umairah Qaireena binti Supian;011987293243;12/2 Block E,Quarters Polis Seksyen 6 Shah ALam,40000;0;0;3;13/04/2023;Tng;SS912445688925
+Sara Khadijah binti Saidin;0136545343;No. 7, Jalan Sungai Kelubi, 32/107, Kemuning Greenhills Shah Alam,40460;2;0;0;08/01/2023;Card;SS925548563102
+Ira Farisha binti Asmadi;0135164167;No 13B, 2nd Floor, Block 3L, Jalan 25/83 Taman Sri Muda, Section 25 Shah Alam,41000;0;1;0;05/02/2023;Card;SS913357660284
+Muhammad Syakir Azmi bin Khaine;0152948523;Unit No. 102, 1st floor, Block 24, Jalan Plumbum 7/96, Section 7 Shah Alam, 40000;0;6;6;23/03/2023;Tng;SS985236550245
+Adam Lutf Zam bin Rudy;0173723965;No. 43, Jalan Desa Kemuning 5, Taman Desa Kemuning Shah Alam, 40470;3;0;4;19/04/2023;Card;SS944633015230
+Khadijah Binti syamil;01174637378;2,jalan kamboja,taman Sempana,83000;2;3;1;23/01/2023;TNG;SS12232322192
+Syamila Binti Khai;012228383;3,Jalan laila,Taman Bunga,83000;2;5;3;01/02/2023;Card;SS929388298
+Khai Bahar Bin muhammad;0199928283;9,Jalan botani,Taman kelana,83000;3;5;2;06/03/2023;TNG;SS9902938029
+Hanani Binti Muhaiman;013889899;10,Jalan orkid,Taman bunga,83000;9;2;7;27/04/2023;Card;SS5602992039
+Syukur Bin kamal;0119383923;98,Jalan sempoyan,taman seri,84000;8;0;2;22/01/2023;TNG;SS1202002921
+Qila Binti Mail;019888272;7,Jalan setia Maju,Taman jaya,83000;3;4;7;12/02/2023;Card;SS97029202910
+Taim Bin Talim;013988889;3,Jalan sri Muka,Taman Raya,83000;9;3;2;09/03/2023;TNG;SS456837828372
+Wani Binti Wamil;0173838283;6,jalan cendiakawan,Taman bahagia,85200;8;10;2;10/04/2023;Card;SS75723902902
+Osman Bin Omilan;01893939;9,Jalan Syawal,taman seria maju,87000;9;2;3;28/01/2023;TNG;SS56639929389
+Yani Binti tamail;016939029;87,kampung batu sebelam,jalan muar,85200;2;4;2;14/02/2023;Card;SS76793828993829
